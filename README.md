@@ -1,2 +1,2 @@
 # codingpractice
-java solutions to some problems on hacker rank
+java solutions to some online coding problems
